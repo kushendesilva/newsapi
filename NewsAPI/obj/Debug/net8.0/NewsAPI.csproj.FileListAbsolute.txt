@@ -41,3 +41,4 @@
 /Users/developer/Projects/Personal/NewsAPI/NewsAPI/obj/Debug/net8.0/NewsAPI.pdb
 /Users/developer/Projects/Personal/NewsAPI/NewsAPI/obj/Debug/net8.0/NewsAPI.genruntimeconfig.cache
 /Users/developer/Projects/Personal/NewsAPI/NewsAPI/obj/Debug/net8.0/ref/NewsAPI.dll
+/Users/developer/Projects/Personal/NewsAPI/NewsAPI/obj/Debug/net8.0/NewsAPI.sourcelink.json
